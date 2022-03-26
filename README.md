@@ -1,2 +1,3 @@
 # learn-devops
-learn devops repo
+learn devops from bascics
+
